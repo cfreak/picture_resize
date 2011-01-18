@@ -9,7 +9,6 @@
  * @version    1.2
  *
  * Examples / Changelog:
-
  * $thumb=new picture_resize("./testpciture.jpg");	// generate image_file, set filename to resize/resample
  * $thumb->size_width(100);							// set width for thumbnail, or
  * $thumb->size_height(300);						// set height for thumbnail, or
