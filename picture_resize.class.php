@@ -21,11 +21,7 @@
  * Note :
  * - GD must Enabled
  * - Autodetect file extension (.jpg/jpeg, .png, .gif, .wbmp)
- *
- * Last Update: 18.01.2010
- * - Update der Imagecopyresampled
- * - Added Transparency Support for 24bit and 32bit PNG
- *
+ * 
  * @todo phpDoc Kommentare
  * @todo uses ergänzen
  */
