@@ -4,10 +4,10 @@ For Use simple:
 
 <?php
 $thumb=new picture_resize("./testpciture.jpg");	// generate image_file, set filename to resize/resample
-$thumb->size_width(100);						// set width for thumbnail, or
-$thumb->size_height(300);						// set height for thumbnail, or
-$thumb->size_auto(200);							// set the biggest width or height for thumbnail
-$thumb->jpeg_quality(75);						// [OPTIONAL] set quality for jpeg only (0 - 100) (worst - best), default = 75
-$thumb->show();									// show your thumbnail
-$thumb->save("./huhu.jpg");						// save your thumbnail to file
+$thumb->size_width(100);    // set width for thumbnail, or
+$thumb->size_height(300);   // set height for thumbnail, or
+$thumb->size_auto(200);		// set the biggest width or height for thumbnail
+$thumb->jpeg_quality(75);	// [OPTIONAL] set quality for jpeg only (0 - 100) (worst - best), default = 75
+$thumb->show();				// show your thumbnail
+$thumb->save("./huhu.jpg");	// save your thumbnail to file
 ?>
