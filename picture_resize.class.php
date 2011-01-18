@@ -21,6 +21,7 @@
  * Note :
  * - GD must Enabled
  * - Autodetect file extension (.jpg/jpeg, .png, .gif, .wbmp)
+ *
  * 
  * @todo phpDoc Kommentare
  * @todo uses ergänzen
