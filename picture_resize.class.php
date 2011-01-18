@@ -6,7 +6,7 @@
  *
  * @copyright  Maximilian Kern
  * @author     Maximilian Kern
- * @version    1.2
+ * @version    1.3
  *
  * Examples / Changelog:
  * $thumb=new picture_resize("./testpciture.jpg");	// generate image_file, set filename to resize/resample
